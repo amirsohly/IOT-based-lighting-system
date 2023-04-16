@@ -2,7 +2,7 @@
 
 Front-end: html, css
 
-Back-end: php, js, ardunio(c++)
+Back-end: php, js, arduino(c++)
 
 Database: mysql
 
